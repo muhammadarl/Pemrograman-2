@@ -1,0 +1,13 @@
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.csprojAssemblyReference.cache
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.AssemblyInfoInputs.cache
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.AssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.csproj.CoreCompileInputs.cache
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\bin\Debug\netcoreapp3.1\inheritance_class.exe
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\bin\Debug\netcoreapp3.1\inheritance_class.deps.json
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\bin\Debug\netcoreapp3.1\inheritance_class.runtimeconfig.json
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\bin\Debug\netcoreapp3.1\inheritance_class.runtimeconfig.dev.json
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\bin\Debug\netcoreapp3.1\inheritance_class.dll
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\bin\Debug\netcoreapp3.1\inheritance_class.pdb
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.dll
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.pdb
+D:\Kampus\semester 3\Pemrograman2\Tugas\inheritance_class\obj\Debug\netcoreapp3.1\inheritance_class.genruntimeconfig.cache
